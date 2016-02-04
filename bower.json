@@ -1,0 +1,24 @@
+{
+  "name": "ace",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Amr Abdulrahman <abu.muslim.amr@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0",
+    "ace": "~1.2.3",
+    "ace-builds": "~1.2.3",
+    "lodash": "~4.2.1"
+  }
+}
